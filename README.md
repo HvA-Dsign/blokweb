@@ -79,9 +79,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-    <img src="readme-images/screenshot-pagina-1.png" width="375px" alt="screenshot van bordpagina op pinterest. onduidelijke beschrijving over knop">
-    <img src="readme-images/screenshot-pagina-2.png" width="375px" alt="sreenshot van de startpagina van pinterest. onduidelijke beschrijving over knop. Niet duidelijk over welke knop het gaat">
-    <img src="readme-images/screenshot-pagina-3.png" width="375px" alt="screenshot van startpagina van pinterest. Screenreader geeft 15 onderdelen aan en niet een beschrijving van de afbeeldingen ">
+    <img src="images/screenshot-pagina-1.png" width="375px" alt="screenshot van bordpagina op pinterest. onduidelijke beschrijving over knop">
+    <img src="images/screenshot-pagina-2.png" width="375px" alt="sreenshot van de startpagina van pinterest. onduidelijke beschrijving over knop. Niet duidelijk over welke knop het gaat">
+    <img src="images/screenshot-pagina-3.png" width="375px" alt="screenshot van startpagina van pinterest. Screenreader geeft 15 onderdelen aan en niet een beschrijving van de afbeeldingen ">
 
 
   Met de screenreader navigeerde door de volledige pagina. Ik merkte dat dit anders ging dan verwacht.
@@ -92,8 +92,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-    <img src="readme-images/screenshot-pagina-4.png" width="375px" alt="screenshot van startpagina pinterest als je hovert over een afbeelding van de content">
-    <img src="readme-images/screenshot-pagina-5.png" width="375px" alt="sreenshot van een hover over de berichten knop">
+    <img src="images/screenshot-pagina-4.png" width="375px" alt="screenshot van startpagina pinterest als je hovert over een afbeelding van de content">
+    <img src="images/screenshot-pagina-5.png" width="375px" alt="sreenshot van een hover over de berichten knop">
 
   Lijst met je bevindingen die in de test naar voren kwamen:
   Ik merkte dat het lastig was om te zien welke content geselecteerd werd met tab. Daarom wil ik betere feedback geven. Dit kan al heel makkelijk door de rand iets dikker te maken, zodat het meer opvalt. Ook kan het met een fellere kleur.
