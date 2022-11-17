@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="images/Pinterest_1.png" width="375px" alt="detailpagina van pinterest">
+  <img src="images/Pinterest_2.png" width="375px" alt="detailpagina van pinterest">
  
 </details>
 
