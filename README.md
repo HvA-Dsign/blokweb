@@ -56,7 +56,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Bevindingen screen reader 
+  Bevindingen screen reader:
   Tijdens het testen, merkte ik dat Pinterest de afbeeldingen op de startpagina als link beschreef en gaf geen uitleg over hoe de afbeelding eruit zag.
   Ook drukte ik perongeluk een keer te veel op tab. Het was voor mij niet duidelijk hoe ik nu terug zou kunnen navigeren.
   Je moet alle reacties nagaan met de screenreader om naar de gerelateerde afbleedingen te gaan. Dit kost veel tijd en geduld. Het zou makkelijker zijn als je de reacties open kon klikken als je daar geintresseerd in bent. Nu moet je alles nagaan, ondanks je daar geen interesse in hebt.
@@ -66,7 +66,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Er wordt aangeven dat je op een link staat, maar niet waar de link naar lijdt.
   Het geeft 6w aan en niet letterlijk 6 weken. Dit kan nogal verwarrend overkomen.
 
-  Bevindingen met muis/toetsenbord
+  Bevindingen met muis/toetsenbord:
   Met tab komt er een hele subtiele blauwe rand om de content/knoppen heen. Het is zo subtiel, dat het moeilijk is om het te volgen. Vooral wanneer het om de afbeeldingen gaat. Dat is het niet meer te volgen welke afbeelding geslecteerd is.
   Niet alle knoppen werken met Tab. 
   Geen logische volgorde om in te navigeren met Tab.
@@ -74,7 +74,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Wanneer je over de knoppen heen hovert met je muis, geeft het aan wat de knop is. Dit vind ik erg goed en maakt het duidelijker. 
   Wanneer je over de content heen hovert, komen er verschillende opties te voor schijn. Klik je erop, dan kom je op de detailpagina van de afbeelding. Hier zie je de afbeelding groot, titel, en heel soms een kleine beschrijving.
 
-  Bevindingen kleuren
+  Bevindingen kleuren:
   Het viel me op dat de website er echt heel anders uitzag wanneer je contrast en pronotapie ging veranderen. Hierdoor realiseer ik me dat het contrast hoog moet zijn, zodat mensen die al weinig contrast zien, nog in ieder geval iets van contrast kunnen zien.
 
   #### Screenreader
@@ -102,17 +102,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Hier korte omschrijving (met indien nodig afbeeldingen):
   Helaas was ik ziek tijdens de les, dus ik kon niet bij het materiaal om deze opdracht te doen. Ik heb wel geprobeerd om met een elastiekje om mijn vingers te binden en dat de website door te nemen. Dit ging iets moeilijker met typen, maar het scrollen ging prima. Gelukkig hoef je bij Pinterest niet veel te typen. 
   Met concentratie problemen, was dit ook best lastig, maar op pinterest zitten gelukkig veel prikkels, waardoor je je aandacht er wel bij kan houden.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   De website van pinterest heeft geen dark modus. De app variant daarentegen wel. Alleen de achtergrond veranderd van kleur. De afbeeldingen vullen 90% van de pagina op, dus de dark modus valt bij de app niet erg op.
   Belangrijk om contrast hoog te maken en rekening te houden met mensen die geen kleuren zien.
-
-  
 
 </details>
 
@@ -124,13 +120,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/breakdownsheet-02.jpg" width="375px" alt="breakdown van de hele pagina van pinterest">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/breakdownsheet-03.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
