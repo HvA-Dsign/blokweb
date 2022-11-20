@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Pinterest  
-  <img src="/images/Pinterest_1.png" width="375px" alt="homepagina pinterest">
+  <img src="/readmeimages/Pinterest_1.png" width="375px" alt="homepagina pinterest">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="images/Pinterest_2.png" width="375px" alt="detailpagina van pinterest">
+  <img src="readmeimages/Pinterest_2.png" width="375px" alt="detailpagina van pinterest">
  
 </details>
 
@@ -79,9 +79,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-    <img src="images/screenshot-pagina-1.png" width="375px" alt="screenshot van bordpagina op pinterest. onduidelijke beschrijving over knop">
-    <img src="images/screenshot-pagina-2.png" width="375px" alt="sreenshot van de startpagina van pinterest. onduidelijke beschrijving over knop. Niet duidelijk over welke knop het gaat">
-    <img src="images/screenshot-pagina-3.png" width="375px" alt="screenshot van startpagina van pinterest. Screenreader geeft 15 onderdelen aan en niet een beschrijving van de afbeeldingen ">
+    <img src="readmeimages/screenshot-pagina-1.png" width="375px" alt="screenshot van bordpagina op pinterest. onduidelijke beschrijving over knop">
+    <img src="readmeimages/screenshot-pagina-2.png" width="375px" alt="sreenshot van de startpagina van pinterest. onduidelijke beschrijving over knop. Niet duidelijk over welke knop het gaat">
+    <img src="readmeimages/screenshot-pagina-3.png" width="375px" alt="screenshot van startpagina van pinterest. Screenreader geeft 15 onderdelen aan en niet een beschrijving van de afbeeldingen ">
 
 
   Met de screenreader navigeerde door de volledige pagina. Ik merkte dat dit anders ging dan verwacht.
@@ -92,8 +92,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-    <img src="images/screenshot-pagina-4.png" width="375px" alt="screenshot van startpagina pinterest als je hovert over een afbeelding van de content">
-    <img src="images/screenshot-pagina-5.png" width="375px" alt="sreenshot van een hover over de berichten knop">
+    <img src="readmeimages/screenshot-pagina-4.png" width="375px" alt="screenshot van startpagina pinterest als je hovert over een afbeelding van de content">
+    <img src="readmeimages/screenshot-pagina-5.png" width="375px" alt="sreenshot van een hover over de berichten knop">
 
   Lijst met je bevindingen die in de test naar voren kwamen:
   Ik merkte dat het lastig was om te zien welke content geselecteerd werd met tab. Daarom wil ik betere feedback geven. Dit kan al heel makkelijk door de rand iets dikker te maken, zodat het meer opvalt. Ook kan het met een fellere kleur.
@@ -120,10 +120,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/breakdownsheet-02.jpg" width="375px" alt="breakdown van de hele pagina van pinterest">
+  <img src="readmeimages/breakdownsheet-02.jpg" width="375px" alt="breakdown van de hele pagina van pinterest">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/breakdownsheet-03.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readmeimages/breakdownsheet-03.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -273,19 +273,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readmeimages/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="rreadmeimages/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readmeimages/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
