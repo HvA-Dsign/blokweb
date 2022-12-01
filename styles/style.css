@@ -5,6 +5,8 @@
 *::after,
 *::before {
 	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 button,
@@ -23,10 +25,11 @@ summary {
 	/* tekst */
 	--color-text: black;
 
+	/* background */
+	--color-background: black;
 	/* zoekbalk */
 	--color-search-button-background: rgb(124, 124, 124);
 	--color-search-input-background: rgb(226, 226, 226);
-
 }
 
 
@@ -35,6 +38,26 @@ summary {
 /*  STYLING */
 /****************/
 
+/****************/
+/* algemeen */
+body{
+	padding: 10px;
+}
+
+
+/****************/
+/* tekst */
+h2{
+	font-size: 20px;
+	color: var(	--color-text);
+}
+
+a{
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: 500;
+	color: var(	--color-text);
+}
 
 /****************/
 /* header navigatiebalk */
@@ -42,6 +65,7 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	background-color: white;
+	padding-top:10px;
 	/* code om de navigatiebalk vast te zetten */
 	position: fixed;
 	z-index:2;
@@ -126,19 +150,18 @@ header form button {
 	background-color: var(--color-search-button-background);
 }
 
-/****************/
-/* header  vast maken */
-
 
 
 /****************/
 /* content afbeeldingen */
 /****************/
 main {
+	gap:2em;
 	display: flex;
 	flex-direction: column;
 	position: relative;
 	margin-top: 6em;
+	padding-bottom:5.5em;
 }
 
 main a {
@@ -149,6 +172,7 @@ main img {
 	/* min-width:8em; */
 	width: 100%;
 	max-width: 32em;
+    border-radius: 1em;
 }
 
 /* responsive maken */
@@ -172,6 +196,14 @@ main img {
 		grid-template-columns: 1fr 1fr 1fr;
 		margin-left: 5%;
 		margin-right: 5%;
+	}
+}
+
+@media screen and (min-width:113em) {
+	main {
+		grid-template-columns: 1fr 1fr 1fr;
+		margin-left: 15%;
+		margin-right: 15%;
 	}
 }
 
@@ -200,32 +232,86 @@ button.anders{
 	background-color:black;
 }
 
-
+main article a{
+	position: relative;
+}
 
 /* delen knop zichtbaar - moet nog blijvend maken  */
-main article:first-of-type > img{
+main article:first-of-type > a {
+	display: block;
+	position: relative;
+}
+
+/* main article:first-of-type > a img:last-of-type{
 	position: absolute;
 	bottom: 10px;
 	right:10px;
 	width:15%;
 	opacity: 0;
 	transition: opacity .3s;
+} */
+
+/* hover knop zichtbaar maken  */
+/* main article:first-of-type > a:hover img:first-of-type + img:last-of-type {
+	opacity: 1;
+} */
+
+/* hover grijs maken  */
+/* main article:first-of-type > a:hover img:first-of-type {
+	filter: grayscale(.9);
+} */
+
+main article > a img:nth-of-type(2){
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	width: 15%;
+	opacity: 0;
+	transition: opacity .3s;
 }
 
-main article:first-of-type > a {
-	display: block;
-}
-
-main article:first-of-type > a:hover + img {
+main article > a:hover img + img:nth-of-type(2) {
 	opacity: 1;
 }
 
-/* article > img{
-	position: absolute;
-	bottom: 10px;
-	right:10px;
-	width:10%;
-} */
+main article > a:hover img:nth-of-type(1){
+	filter: grayscale(.9);
+}
+
+
+
+/* tekst onder foto  */
+main article:first-of-type > section {
+	display: flex;
+	gap: 5px;
+	padding: 5px 10px;
+}
+
+
+main article:first-of-type > section img{
+	order: -1;
+	height: 25px;
+	width: auto;
+}
+
+/****************/
+/* foto twee*/
+main article > section {
+	display: flex;
+	gap: 5px;
+	padding: 5px 10px;
+}
+
+/* tekst onder foto  + foto klein maken*/
+main article > section img{
+	order: -1;
+	height: 25px;
+	width: auto;
+}
+
+
+
+
 
 
 /* wanneer scherm kleiner wordt, verschuift de header naar beneden */
@@ -239,6 +325,16 @@ main article:first-of-type > a:hover + img {
 	}
 }
 
+
+
+
+
+
+
+
+
+
+
 /* code om het te hoveren */
 /* 
 section img:hover + button {
@@ -250,6 +346,12 @@ section img:hover + button {
 } 
 */
 
+/* article > img{
+	position: absolute;
+	bottom: 10px;
+	right:10px;
+	width:10%;
+} */
 
 
 
