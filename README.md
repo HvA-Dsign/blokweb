@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   blauw
 
   #### Je focus:
-  focus: responsive
+  focus: responsiveb
  
 </details>
 
@@ -135,28 +135,33 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
+  
+  <img src="readmeimages/Schermafbeelding 2022-12-04 om 14.11.29.png" width="375px" alt="screenshot van mijn html code van de index pagina">
+  <img src="readmeimages/Schermafbeelding 2022-12-04 om 14.14.34.png" width="375px" alt="screenshot van mijn html code van de detail pagina">
+
+
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  hier dit ging goed & dit was lastig 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  Ik stelde voor om de tijd te verdelen door drieeën, zodat wij allemaal onze eigen dingen kunnen doen, zonder dat dat we iemand er doorheen gaat en jij je antwoord nog steeds niet hebt.
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Rouicha        | Beau               | Ufuk         
+  | ---            | ---                | ---          
+  | bewaren knop & | geen vragen        | vragen hoe hij bepaalde 
+  | JavaScript     |                    | elementen op één plek k
+  | onduidelijk    |                    | on zitten en responsive kon maken
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik heb javascript nodig om de tekst te veranderen in de html
+  - de website is nog te simpel
+  - Het is mogelijk om knoppen boven de afbeeldingen te zetten
 
 </details>
 
@@ -176,20 +181,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Rouicha        | Beau               | Ufuk         
+  | ---            | ---                | ---          
+  | feedback vragen| hoe hij semantisch | vragen hoe hij responsive kon maken  
+  | Hoe nu verder? | correct kan werken | + ingewikkelde code 
+  | onduidelijk    | + hoe krijgt hij de| + ahref link hoeft geen p element
+                     tekst goed op een 
+                     foto
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Op de detail pagina kan ik de toegankelijkheid verbeteren door de reacties uit in te kunnen klappen, door 'detail summary' te gebruiken.
+  - Tweede pagina responsive maken
+  - Bovenste gedeelte article, img, div, knoppen + titel + tekst. Onderste gedeelte section: titel img.
+  - Tweede pagina > onderste gedeelte dezelfde manier stijlen zoals op de homepagina
+
+
 
 </details>
 
@@ -299,8 +307,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  1. https://nl.pinterest.com/
+  2. https://nl.pinterest.com/pin/347551296255833717/
+  3. https://nl.pinterest.com/pin/46443439899060051/
+  4. https://nl.pinterest.com/pin/294845106867943683/
+  5. https://nl.pinterest.com/pin/318911217373305007/
+  6. https://nl.pinterest.com/pin/694961786262217132/
+  7. https://nl.pinterest.com/pin/5911043257204868/
+  8. https://nl.pinterest.com/pin/804244445973685479/
+  9. https://nl.pinterest.com/pin/175007135511810425/
+ 10. https://nl.pinterest.com/pin/998251073630411158/
+ 11. https://nl.pinterest.com/pin/833728949788593892/
+ 12. https://nl.pinterest.com/pin/337910778307616632/
+ 13. https://nl.pinterest.com/pin/4222193392109343/
+ 14. https://nl.pinterest.com/pin/25192079158892487/
+ 15. https://nl.pinterest.com/pin/526147168979521100/
+ 16. https://nl.pinterest.com/pin/417990409174826429/
+ 
 </details>
