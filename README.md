@@ -175,19 +175,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Rouicha          | Beau               | Ufuk         
-  | ---              | ---                | ---          
-  | feedback vragen  | hoe hij semantisch | vragen hoe hij responsive kon maken  
-  | Hoe nu verder?   | correct kan werken | + ingewikkelde code 
-  | onduidelijk      | + hoe krijgt hij de| + ahref link hoeft geen p element
-    wat ik moet doen |  tekst goed op een 
-                         foto
+  | Rouicha                      | Beau                                  | Ufuk         
+  | ---                          | ---                                   | ---          
+  | feedback vragen              | hoe hij semantisch correct kan werken | vragen hoe hij het responsive kon maken  
+  | Hoe nu verder?               | + hoe krijgt hij de tekst op een foto | + ingewikkelde code 
+  | onduidelijk wat ik moet doen |                                       | + ahref link hoeft geen p element
+
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -196,9 +193,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Tweede pagina responsive maken
   - Bovenste gedeelte article, img, div, knoppen + titel + tekst. Onderste gedeelte section: titel img.
   - Tweede pagina > onderste gedeelte dezelfde manier stijlen zoals op de homepagina
-
-
-
 </details>
 
 
@@ -269,10 +263,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
   
-  | Rouicha                                                                 | Beau                | Ufuk         
-  | ---                                                                     | ---                 | ---          
-  | feedback vragen                                                         | knop animatie geven | feedback
-  | hulp om hoe ik dezelfde stijl bij mijn andere html pagina kon krijgen   |                     | + ingewikkelde code 
+  | Rouicha                                                                 | Beau                  | Ufuk         
+  | ---                                                                     | ---                   | ---          
+  | feedback vragen                                                         | knop animatie geven   | feedback
+  | hulp om hoe ik dezelfde stijl bij mijn andere html pagina kon krijgen   |                       | + ingewikkelde code 
  
 
 
