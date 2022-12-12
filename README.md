@@ -217,35 +217,36 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik heb een duidelijke uitleg voor de meeste elementen, dit gaat goed.
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Hier korte omschrijving (met indien nodig afbeeldingen):
+  In de les gingen we onze website testen met screenreader. Hier kwam niet erg veel uit helaas, omdat ik deze testen tussen het ontwerpen door al deed.
+
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   Het viel me op dat ik overal een alt tekst heb neergezet, behalve bij de linkjes die naar een profiel zouden navigeren. De screenreader leest nu alleen de tekst op.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Het is logisch dat er geen alt tekst staat, omdat daar geen alt tekst geplaats kan worden. Wat ik wel kan doen is een aria label gebruiken en hier een uitleg geven. De uitleg moet duidelijk zijn net als ik bij mijn anderen elementen op de website heb gedaan.
     <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.10.46.png" width="375px" alt="screenshot van screenreader over de uitleg van een afbeelding">
 
-  Uitgebreide uitleg van afbeeldingen, zodat slechtziende nog steeds Pinterest kunnen gebruiken.
-
-  <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.37.03.png" width="375px" alt="screenshot van screenreader die mijn alt tekst opleest over de camera knop"> 
   Knoppen met duidelijke beschrijving en niet een vage uitleg, zoals de orginiele pinterest website
+  <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.37.03.png" width="375px" alt="screenshot van screenreader die mijn alt tekst opleest over de camera knop"> 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Ik heb bij de meeste elementen op de website een focus state, maar alleen bij de zoekbalk heb ik nog geen goede focus state uitgewerkt. Dit kan ik nog even aanpassen.
+  Ik heb bij de meeste elementen op de website een focus state, maar alleen bij de zoekbalk heb ik nog geen goede focus state uitgewerkt. Dit kan ik nog even aanpassen. Ik zou dit kunnen doen door een betere lijn te ontwerpen en de 'normale' focus state uit te zetten.
   <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.56.06.png" width="375px" alt="screenshot van focus state van zoekbalk"> 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Ik heb een ballon omhoog gehouden. Dit leidde me erg af, maar was zeker goed te doen. Op mijn website heb je niet hele erge concentratie nodig en je kan gewoon verder waar je was gebleven.
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ik heb een ballon omhoog gehouden. Dit leidde me erg af, maar was zeker goed te doen. Op mijn website heb je niet hele erge concentratie nodig en je kan gewoon verder waar je was gebleven. Ik maak geen gebruik van grote stukken tekst, dus met een lage concentratie is mijn website goed te doen.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Ik heb twee verschillende brillen op mijn website gebruikt. Een andere klasgenoot heeft ook even mijn website getest. De klasgenoot gaf aan dat hij de elementen, vormen ziet, maar de context niet begrijpt.
   Ik merkte zelf dat ik het goed kon zien, behalve de subtitels (link van profiel + profielfoto).
+  <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.22.52.png" width="375px" alt="foto van de drie billen waarmee mijn klasgenoot en ik gingen testen"> 
 
+  <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.24.03.png" width="375px" alt="foto mijn klasgenoot en ik terwijl we aan het testen zijn"> 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   Ik zou de subtitels groter kunnen maken, maar dan valt dit wel meer op en het moet niet de te veel aandacht trekken, omdat het niet belangrijk is.
 
@@ -266,21 +267,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  
+  | Rouicha                                                                 | Beau                | Ufuk         
+  | ---                                                                     | ---                 | ---          
+  | feedback vragen                                                         | knop animatie geven | feedback
+  | hulp om hoe ik dezelfde stijl bij mijn andere html pagina kon krijgen   |                     | + ingewikkelde code 
+ 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik liep nogal vast met mijn code. Ik wilde dezelfde css toepassen in mijn andere HTML, maar dit ging niet goed. Ymaro heeft me geholpen. Nu ging het wel goed en moest ik zelf nog even wat dingen aanpassen.
+  - Helaas was er geen tijd om feedback te vragen, want het duurde al best lang
 
 </details>
 
@@ -298,17 +297,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Wat heb ik geleerd:
+  Ik heb geleerd dat je met CSS veel meer kan dat ik in eerste instatie dacht. Ik heb geleerd hoe ik een website responsive kan maken, meer manieren om geen divs/classes te gebruiken, semantisch correct te werken, animaties te maken en hoe ik het beste mijn website kan testen.
 
-  <img src="rreadmeimages/dummy-plaatje.jpg" width="375px" alt="top">
+  Wat ging er goed:
+  Ik vond de eerste opdrachten van het huiswerk, vaak goed gaan. De tweede lukte niet altijd. Ook vond ik het testen en vooronderzoek goed gaan. Ik bedoel hiermee dat ik echt keek naar wat de gebruiker nodig heeft en dat ik inclusief probeerde te ontwerpen.
+  Ik heb ook geleerd om rustiger te blijven tijdens het coderen. Ik ervaarde iets minder irritaties, omdat ik nu wel weet dat coderen met ups en downs gaat. Ik probeer nu iets eerder aan de bel te trekken, voordat ik mijn laptop uit het raam wil gooien ;p
+
+  <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.46.40.png" width="375px" alt="screenshot 1 van gemaakte Codepen opdrachten"> 
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-
-  <img src="readmeimages/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Opdracht twee van huiswerkopdrachten. Dit ging vaak niet goed. Ook ging het toepassen van de theorie in het begin niet zo vlot. Met wat hulp, ging dit weer goed.
+  <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.46.28.png" width="375px" alt="screenshot 2 van gemaakte Codepen opdrachten"> 
 </details>
-
 
 
 
