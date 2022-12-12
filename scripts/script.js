@@ -1,13 +1,14 @@
-console.log("hi");
+console.log("pinterest");
 
 
 var rodeKnoppen = document.querySelectorAll("article button");
+var zoekIcoon = document.querySelector("nav ul li label");
+var zoekbalk = document.querySelector("form");
+
 
 rodeKnoppen.forEach(knop => {
     console.log(knop);
-
     knop.addEventListener("click", maakKnopZwart);
-
 });
 
 
@@ -23,4 +24,11 @@ function maakKnopZwart(event) {
         event.target.innerHTML = "Bewaren";
         console.log(event);
     }
+}
+
+// zoekbalk tonen bij klein scherm als je klikt op het icoon
+zoekIcoon.addEventListener("click", toonZoekbalk);
+
+function toonZoekbalk() {
+    zoekbalk.classList.toggle('tonenVanZoekbalk');
 }

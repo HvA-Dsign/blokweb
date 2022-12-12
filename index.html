@@ -3,10 +3,10 @@
 
 <head>
 	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
+	<meta name="author" content="Rouicha Oberweis">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Howdy FED2223</title>
+	<title>Pinterest startpagina</title>
 
 	<link href="styles/style.css" rel="stylesheet">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
@@ -19,14 +19,15 @@
 		<!--menubalk iconen-->
 		<nav>
 			<ul>
-				<li><a href="index.html"><img src="images/pinterest-logo.png" alt="pinterest logo rood met wit. Knop om op de hoofdpagina te komen"></a></li>
-				<li><img src="images/icoon-maken-camera.png"alt="icoon van een een camera. Met deze knop kun je zelf afbeeldingen plaatsen op pinterest."></li>
-				<li><img src="images/icoon-bel.png" alt="icoon van een belletje. Knop om naar je meldingen te gaan."></li>
-				<li><img src="images/icoon-berichten.png" alt="icoon van een tekstwolk. Knop om naar je berichten te gaan."></li>
-				<li><img src="images/icoon-profiel.png" alt="icoon van een een profiel/mens. Knop om naar je persoonlijke profiel te gaan."></li>
+				<!-- tabindex toegevoegd voor toegankelijkheid -->
+				<li tabindex="0"><a href="index.html"><img src="images/pinterest-logo.png" alt="pinterest logo rood met wit. Knop om op de hoofdpagina te komen"></a></li>
+				<li tabindex="0"><img src="images/icoon-maken-camera.png"alt="icoon van een een camera. Met deze knop kun je zelf afbeeldingen plaatsen op pinterest."></li>
+				<li tabindex="0"><img src="images/icoon-bel.png" alt="icoon van een belletje. Knop om naar je meldingen te gaan."></li>
+				<li tabindex="0"><img src="images/icoon-berichten.png" alt="icoon van een tekstwolk. Knop om naar je berichten te gaan."></li>
+				<li tabindex="0"><img src="images/icoon-profiel.png" alt="icoon van een een profiel/mens. Knop om naar je persoonlijke profiel te gaan."></li>
+				<li tabindex="0"><label for="zoek"><img src="images/icoon-zoek-donkergrijs.png" alt="zoek"></label></li>
 			</ul>
 		</nav>
-
 
 		<!--menubalk zoekbalk-->
 		<form role="search" action="#">
@@ -36,7 +37,7 @@
 		</form>
 
 	</header>
-
+	
 	<main>
 		<!--content afbeeldingen-->
 		<!--  1 -->
@@ -44,13 +45,13 @@
 			<a href="detail.html">
 				<img src="images/content_1.jpg"
 					alt="aziatische vrouw die links wegkijkt met een groene cijfers die op haar geprojecteerd zijn met licht">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
-			<section>
-				<a href="detail.html">Errorman</a>
+			<section tabindex="0">
+				<a href="detail.html" aria-label="link naar profiel">Errorman</a>
 				<img src="images/content_1.jpg"
-					alt="aziatische vrouw die links wegkijkt met een groene cijfers die op haar geprojecteerd zijn met licht">
+					alt="profielfoto van account. Op de profielfoto staat een aziatische vrouw die links wegkijkt met een groene cijfers die op haar geprojecteerd zijn met licht">
 			</section>
 		</article>
 
@@ -59,13 +60,13 @@
 			<a href="detail.html">
 				<img src="images/content_2.jpg"
 					alt="jonge vrouw die een grote bel blaast met bellenblaas. De vrouw heeft lichtblond haar en is blank. Ze draagt een afzakkende t-shirt. Haar schouder is bloot">
-					<img src="images/icoon-delen-1.png" alt="knop delen"/>
+					<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 				</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Bellenblaas</a>
 				<img src="images/content_2.jpg"
-					alt="jonge vrouw die een grote bel blaast met bellenblaas. De vrouw heeft lichtblond haar en is blank. Ze draagt een afzakkende t-shirt. Haar schouder is bloot">
+					alt="profielfoto van account. Op de profielfoto staat een jonge vrouw die een grote bel blaast met bellenblaas.">
 			</section>
 		</article>
 
@@ -74,10 +75,10 @@
 			<a href="detail.html">
 				<img src="images/content_3.jpg"
 				alt="3 kwasten met verfstrepen met een speelse compositie. De naam van de verf staat ook genoteerd. De verf is op kleur gesorteerd, namelijk wit, grijs en zwart">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Painting is my passion</a>
 			</section>
 		</article>
@@ -87,11 +88,11 @@
 			<a href="detail.html">
 				<img src="images/content_4.jpg"
 				alt="jonge vrouw die over haar schouder kijkt. Ze heeft met licht een rode streep op haar gezicht geprojecteerd. Ze heeft glitters op haar gezicht">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 				<button>Bewaren</button>
 
-			<section>
+			<section tabindex="0">
 					<a href="detail.html">Red & blue</a>
 			</section>	
 		</article>
@@ -101,13 +102,13 @@
 			<a href="detail.html">
 			<img src="images/content_5.jpg"
 				alt="alfabet met krantenknipsel typografie en hoe de letters bij elkaar zouden staan als deze letters gebruikt zouden worden. De letters zijn kleurrijk en abstract van vorm">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Typography Girl</a>
 				<img src="images/content_5.jpg"
-					alt="alfabet met krantenknipsel typografie en hoe de letters bij elkaar zouden staan als deze letters gebruikt zouden worden. De letters zijn kleurrijk en abstract van vorm">
+					alt="profielfoto van account. Op de profielfoto staat een alfabet met krantenknipsel typografie en hoe de letters bij elkaar zouden staan als deze letters gebruikt zouden worden. De letters zijn kleurrijk en abstract van vorm">
 			</section>
 		</article>
 
@@ -116,13 +117,13 @@
 			<a href="detail.html">
 				<img src="images/content_6.jpg"
 				alt="jonge vrouw die confettie vanuit een boek wegblaast. De confettie zweeft in de lucht.">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Yolande Achterberg</a>
 				<img src="images/content_6.jpg"
-					alt="jonge vrouw die confettie vanuit een boek wegblaast. De confettie zweeft in de lucht.">
+					alt="profielfoto van account. Op de profielfoto staat een jonge vrouw die confettie vanuit een boek wegblaast. De confettie zweeft in de lucht.">
 			</section>
 		</article>
 
@@ -131,11 +132,11 @@
 			<a href="detail.html">
 			<img src="images/content_7.jpg"
 				alt="interieur van een woonkamer. De kleuren zijn licht bruin, licht blauw en wit. De bank, muur en schilderij staan centraal in de foto. Op het schilderij is een vrouw geschilderd die grote bladeren op haar hoofd heeft. Ze kijkt verveeld">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
 
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Architectuur & Design</a>
 			</section>	
 		</article>
@@ -145,13 +146,13 @@
 			<a href="detail.html">
 			<img src="images/content_8.jpg"
 				alt="kleding stijl voorbeeld. zwart kort hempje en sportbroekje. Ook staan er accessoires op de foto, namelijk een creme pet, witte sneakers en klein wit tasje. Het merk van de accessoires is Balenciaga.">
-				<img src="images/icoon-delen-1.png" alt="knop delen"/>
+				<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 			</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Styling</a>
 				<img src="images/content_8.jpg"
-				alt="kleding stijl voorbeeld. zwart kort hempje en sportbroekje. Ook staan er accessoires op de foto, namelijk een creme pet, witte sneakers en klein wit tasje. Het merk van de accessoires is Balenciaga.">
+				alt="profielfoto van account. Op de profielfoto staat een kleding stijl voorbeeld. zwart kort hempje en sportbroekje. Ook staan er accessoires op de foto, namelijk een creme pet, witte sneakers en klein wit tasje. Het merk van de accessoires is Balenciaga.">
 			</section>
 		</article>
 
@@ -160,22 +161,34 @@
 			<a href="detail.html">
 				<img src="images/content_9.jpg"
 					alt="barista koffie met een hartje in het midden. Een goud lepeltje naast het witte kopje en onder het kopje een klein wit bordje. De ondergrond is wit en grijs marbel">
-					<img src="images/icoon-delen-1.png" alt="knop delen"/>
+					<img src="images/icoon-delen-rond-donkergrijs.png" alt="knop delen"/>
 				</a>
 			<button>Bewaren</button>
-			<section>
+			<section tabindex="0">
 				<a href="detail.html">Barista Bitch</a>
 				<img src="images/content_9.jpg"
-					alt="barista koffie met een hartje in het midden. Een goud lepeltje naast het witte kopje en onder het kopje een klein wit bordje. De ondergrond is wit en grijs marbel">
+					alt="profielfoto van account. Op de profielfoto staat een kopje koffie met een hartje in het midden. Een goud lepeltje naast het witte kopje en onder het kopje een klein wit bordje. De ondergrond is wit en grijs marbel">
 			</section>
 		</article>
 	</main>
-
-
-
 	<script defer src="scripts/script.js"></script>
-
 </body>
 
-	<!-- bronvermelding: Pinterest. (2022). Pinterest. https://nl.pinterest.com -->
+	<!-- bronvermelding: Pinterest. (2022). Pinterest. https://nl.pinterest.com 
+	https://nl.pinterest.com/pin/347551296255833717/
+	https://nl.pinterest.com/pin/46443439899060051/
+	https://nl.pinterest.com/pin/294845106867943683/
+	https://nl.pinterest.com/pin/318911217373305007/
+	https://nl.pinterest.com/pin/694961786262217132/
+	https://nl.pinterest.com/pin/5911043257204868/
+	https://nl.pinterest.com/pin/804244445973685479/
+	https://nl.pinterest.com/pin/175007135511810425/
+	https://nl.pinterest.com/pin/998251073630411158/
+	https://nl.pinterest.com/pin/833728949788593892/
+	https://nl.pinterest.com/pin/337910778307616632/
+	https://nl.pinterest.com/pin/4222193392109343/
+	https://nl.pinterest.com/pin/25192079158892487/
+	https://nl.pinterest.com/pin/526147168979521100/
+	https://nl.pinterest.com/pin/417990409174826429/
+	-->
 </html>

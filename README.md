@@ -152,8 +152,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | Rouicha        | Beau               | Ufuk         
   | ---            | ---                | ---          
   | bewaren knop & | geen vragen        | vragen hoe hij bepaalde 
-  | JavaScript     |                    | elementen op één plek k
-  | onduidelijk    |                    | on zitten en responsive kon maken
+  | JavaScript     |                    | elementen op één plek kon
+  | onduidelijk    |                    |  zitten en responsive kon maken
 
 
   ### Verslag van meeting
@@ -181,13 +181,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Rouicha        | Beau               | Ufuk         
-  | ---            | ---                | ---          
-  | feedback vragen| hoe hij semantisch | vragen hoe hij responsive kon maken  
-  | Hoe nu verder? | correct kan werken | + ingewikkelde code 
-  | onduidelijk    | + hoe krijgt hij de| + ahref link hoeft geen p element
-                     tekst goed op een 
-                     foto
+  | Rouicha          | Beau               | Ufuk         
+  | ---              | ---                | ---          
+  | feedback vragen  | hoe hij semantisch | vragen hoe hij responsive kon maken  
+  | Hoe nu verder?   | correct kan werken | + ingewikkelde code 
+  | onduidelijk      | + hoe krijgt hij de| + ahref link hoeft geen p element
+    wat ik moet doen |  tekst goed op een 
+                         foto
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -212,29 +212,42 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Het viel me op dat ik overal een alt tekst heb neergezet, behalve bij de linkjes die naar een profiel zouden navigeren. De screenreader leest nu alleen de tekst op.
+
+  Ik heb een duidelijke uitleg voor de meeste elementen, dit gaat goed.
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Het viel me op dat ik overal een alt tekst heb neergezet, behalve bij de linkjes die naar een profiel zouden navigeren. De screenreader leest nu alleen de tekst op.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+    <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.10.46.png" width="375px" alt="screenshot van screenreader over de uitleg van een afbeelding">
 
+  Uitgebreide uitleg van afbeeldingen, zodat slechtziende nog steeds Pinterest kunnen gebruiken.
+
+  <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.37.03.png" width="375px" alt="screenshot van screenreader die mijn alt tekst opleest over de camera knop"> 
+  Knoppen met duidelijke beschrijving en niet een vage uitleg, zoals de orginiele pinterest website
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Ik heb bij de meeste elementen op de website een focus state, maar alleen bij de zoekbalk heb ik nog geen goede focus state uitgewerkt. Dit kan ik nog even aanpassen.
+  <img src="readmeimages/Schermafbeelding 2022-12-07 om 14.56.06.png" width="375px" alt="screenshot van focus state van zoekbalk"> 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik heb een ballon omhoog gehouden. Dit leidde me erg af, maar was zeker goed te doen. Op mijn website heb je niet hele erge concentratie nodig en je kan gewoon verder waar je was gebleven.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik heb twee verschillende brillen op mijn website gebruikt. Een andere klasgenoot heeft ook even mijn website getest. De klasgenoot gaf aan dat hij de elementen, vormen ziet, maar de context niet begrijpt.
+  Ik merkte zelf dat ik het goed kon zien, behalve de subtitels (link van profiel + profielfoto).
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ik zou de subtitels groter kunnen maken, maar dan valt dit wel meer op en het moet niet de te veel aandacht trekken, omdat het niet belangrijk is.
 
 </details>
 
