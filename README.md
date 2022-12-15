@@ -290,8 +290,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readmeimages/hoofdpagina-1.png" width="375px" alt="screenshot hoofdpagina-normaal">
   <img src="readmeimages/hoofdpagina-breakpoint-2.png" width="375px" alt="screenshot hoofdpagina-breakpoint-grootscherm">
-  <img src="readmeimages/hoofdpagina-breakpoint-3.png" width="375px" alt="screenshot hoofdpagina-breakpoint-kleiner scherm twee kolommen">
-  <img src="readmeimages/hoofdpagina-breakpoint-4.png" width="375px" alt="screenshot hoofdpagina-breakpoint-klein scherm 1 kolom">
+  <img src="readmeimages/hoofdpagina-breakpoint-3.png" width="100px" alt="screenshot hoofdpagina-breakpoint-kleiner scherm twee kolommen">
+  <img src="readmeimages/hoofdpagina-breakpoint-4.png" width="100px" alt="screenshot hoofdpagina-breakpoint-klein scherm 1 kolom">
 
   <img src="readmeimages/startpagina-2.png" width="375px" alt="screenshot hoofdpagina-tweede pagina die je ziet als je refresht. Bevat dezelfde breakpoints als de hoofdpagina">
 
