@@ -288,8 +288,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readmeimages/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readmeimages/hoofdpagina-1.png" width="375px" alt="screenshot hoofdpagina-normaal">
+  <img src="readmeimages/hoofdpagina-breakpoint-2.png" width="375px" alt="screenshot hoofdpagina-breakpoint-grootscherm">
+  <img src="readmeimages/hoofdpagina-breakpoint-3.png" width="375px" alt="screenshot hoofdpagina-breakpoint-kleiner scherm twee kolommen">
+  <img src="readmeimages/hoofdpagina-breakpoint-4.png" width="375px" alt="screenshot hoofdpagina-breakpoint-klein scherm 1 kolom">
 
+  <img src="readmeimages/startpagina-2.png" width="375px" alt="screenshot hoofdpagina-tweede pagina die je ziet als je refresht. Bevat dezelfde breakpoints als de hoofdpagina">
+
+   <img src="readmeimages/detailpagina-1.png" width="375px" alt="screenshot van mijn detailpagina">
+   <img src="readmeimages/detailpagina-breakpoint.png" width="375px" alt="screenshot van mijn detailpagina- breakpoint">
 
   ### Dit ging goed/Heb ik geleerd: 
   Wat heb ik geleerd:
@@ -314,10 +321,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
-
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
+  <summary>Bronvermelding</summary>
   1. https://nl.pinterest.com/
   2. https://nl.pinterest.com/pin/347551296255833717/
   3. https://nl.pinterest.com/pin/46443439899060051/
@@ -334,5 +338,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  14. https://nl.pinterest.com/pin/25192079158892487/
  15. https://nl.pinterest.com/pin/526147168979521100/
  16. https://nl.pinterest.com/pin/417990409174826429/
+ 17. https://nl.pinterest.com/pin/774124928093140/
+ 18. https://nl.pinterest.com/pin/194780752620586702/
+ 19. https://nl.pinterest.com/pin/8373949299805513/
+ 20. https://nl.pinterest.com/pin/563018695607984/
+ 21. https://nl.pinterest.com/pin/966233295030717776/
+ 22. https://nl.pinterest.com/pin/492933121727320424/
+ 23. https://nl.pinterest.com/pin/479914904052148585/
+ 24. https://nl.pinterest.com/pin/279504720615165377/
+ 25. https://nl.pinterest.com/pin/422281208742400/
+ 26. https://nl.pinterest.com/pin/4433299626606221/
+ 27. https://nl.pinterest.com/pin/635992778643442666/
  
 </details>
