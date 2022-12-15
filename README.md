@@ -290,17 +290,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readmeimages/hoofdpagina-1.png" width="375px" alt="screenshot hoofdpagina-normaal">
   <img src="readmeimages/hoofdpagina-breakpoint-2.png" width="375px" alt="screenshot hoofdpagina-breakpoint-grootscherm">
-  <img src="readmeimages/hoofdpagina-breakpoint-3.png" width="100px" alt="screenshot hoofdpagina-breakpoint-kleiner scherm twee kolommen">
-  <img src="readmeimages/hoofdpagina-breakpoint-4.png" width="100px" alt="screenshot hoofdpagina-breakpoint-klein scherm 1 kolom">
+  <img src="readmeimages/hoofdpagina-breakpoint-3.png" width="150px" alt="screenshot hoofdpagina-breakpoint-kleiner scherm twee kolommen">
 
+  <img src="readmeimages/detailpagina-breakpoint.png" width="150px" alt="screenshot van mijn detailpagina- breakpoint">
+  <img src="readmeimages/detailpagina-1.png" width="375px" alt="screenshot van mijn detailpagina">
+  
   <img src="readmeimages/startpagina-2.png" width="375px" alt="screenshot hoofdpagina-tweede pagina die je ziet als je refresht. Bevat dezelfde breakpoints als de hoofdpagina">
 
-   <img src="readmeimages/detailpagina-1.png" width="375px" alt="screenshot van mijn detailpagina">
-   <img src="readmeimages/detailpagina-breakpoint.png" width="375px" alt="screenshot van mijn detailpagina- breakpoint">
+
 
   ### Dit ging goed/Heb ik geleerd: 
   Wat heb ik geleerd:
-  Ik heb geleerd dat je met CSS veel meer kan dat ik in eerste instatie dacht. Ik heb geleerd hoe ik een website responsive kan maken, meer manieren om geen divs/classes te gebruiken, semantisch correct te werken, animaties te maken en hoe ik het beste mijn website kan testen.
+  Ik heb geleerd dat je met CSS veel meer kan dat ik in eerste instatie dacht. Ik heb geleerd hoe ik een website responsive kan maken, meer manieren om geen divs/classes te gebruiken, semantisch correct te werken, animaties te maken en hoe ik het beste mijn website kan testen op toegankelijkheid.
 
   Wat ging er goed:
   Ik vond de eerste opdrachten van het huiswerk, vaak goed gaan. De tweede lukte niet altijd. Ook vond ik het testen en vooronderzoek goed gaan. Ik bedoel hiermee dat ik echt keek naar wat de gebruiker nodig heeft en dat ik inclusief probeerde te ontwerpen.
@@ -311,7 +312,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  Opdracht twee van huiswerkopdrachten. Dit ging vaak niet goed. Ook ging het toepassen van de theorie in het begin niet zo vlot. Met wat hulp, ging dit weer goed.
+  Opdracht twee van huiswerkopdrachten. Dit ging vaak niet goed. Ook ging het toepassen van de theorie in het begin niet zo vlot. Ik begreep vaak wel wat in de lessen werd besproken, maar als ik dit dan thuis alleen probeerde toe te passen,lukte dit de eerste keer niet altijd. Met wat hulp, ging dit weer goed.
   <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.46.28.png" width="375px" alt="screenshot 2 van gemaakte Codepen opdrachten"> 
 </details>
 
