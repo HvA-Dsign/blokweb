@@ -143,17 +143,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig 
-
+  Ik had een goed begin van mijn website, maar ik ben nog lang niet klaar. Ik moest nog veel doen aan mijn CSS. Ik vroeg me of hoe ik iets kon doen, maar ik had geen kennis daarover. Dit wilde ik graag beantwoord krijgen en gelukkig heb ik tijdens mijn gesprek mijn antwoorden. 
+  Het was moeilijk om alles te regelen binnen de tijd.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
   Ik stelde voor om de tijd te verdelen door drieeën, zodat wij allemaal onze eigen dingen kunnen doen, zonder dat dat we iemand er doorheen gaat en jij je antwoord nog steeds niet hebt.
 
-  | Rouicha        | Beau               | Ufuk         
-  | ---            | ---                | ---          
-  | bewaren knop & | geen vragen        | vragen hoe hij bepaalde 
-  | JavaScript     |                    | elementen op één plek kon
-  | onduidelijk    |                    |  zitten en responsive kon maken
+  | Rouicha                | Beau               | Ufuk         
+  | ---                    | ---                | ---          
+  | bewaren knop &         | geen vragen        | vragen hoe hij bepaalde elementen op één plek kon zetten
+  | JavaScript onduidelijk |                    | responsive maken
 
 
   ### Verslag van meeting
@@ -175,6 +175,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
+  Deze keer ging het qua tijd veel beter. We kregen onze vragen sneller beantwoord en hadden zelfs wat tijd over. Ik kreeg door het gesprek een duidelijk idee van wat ik moest doen en hoe ik dingen moest aan gaan pakken.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -257,8 +258,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had feedback nodig en hulp bij hoe ik dezelfde css op mijn andere html pagina kon toepassen. Ik had hier erg moeite mee en mijn website viel helemaal uit elkaar. Helaas kon ik niet alles doen binnen de tijd, maar ik was al verder vooruit gekomen.
   <img src="readmeimages/screen-mijnwebsite.png" width="375px" alt="screenshot van website op dat moment"> 
   <img src="readmeimages/website-voortganggesprek3.png" width="375px" alt="screenshot van de code"> 
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -312,7 +315,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  Opdracht twee van huiswerkopdrachten. Dit ging vaak niet goed. Ook ging het toepassen van de theorie in het begin niet zo vlot. Ik begreep vaak wel wat in de lessen werd besproken, maar als ik dit dan thuis alleen probeerde toe te passen,lukte dit de eerste keer niet altijd. Met wat hulp, ging dit weer goed.
+  Opdracht twee van huiswerkopdrachten. Dit ging vaak niet goed. Ook ging het toepassen van de theorie in het begin niet zo vlot. Ik begreep vaak wel wat in de lessen werd besproken, maar als ik dit dan thuis alleen probeerde toe te passen,lukte dit de eerste keer niet altijd. Met wat hulp, ging dit weer goed. Gek genoeg lukte het mij niet om de dark modus opdracht te maken, maar in mijn eigen ontwerp lukte dit wel. Hoe je de darkmodus moet toepassen, is vaak uitlegd in de lessen. Bij het huiswerk opdracht, moest ik eerst iets doen met een vinkje en dat lukte mij niet. Het toepassen op mijn eigen website ging gek genoeg wel soepel.  
   <img src="readmeimages/Schermafbeelding 2022-12-12 om 20.46.28.png" width="375px" alt="screenshot 2 van gemaakte Codepen opdrachten"> 
 </details>
 
